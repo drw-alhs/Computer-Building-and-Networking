@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Corbin Grassa</title>
+    </head>
+  <body>
+    <h1>Welcome to my Website</h1>
+    <h4 style="color:red;">WARNING<h4>
+    <p>If you are reading this, you have confired your identity and you are currently being tracked. <br><br>Prepared to be nuked.  </p>
+      <input type="text" id="txt"><br><br>
+<button type="button" onclick="myFunction()">Stop</button>
+
+<script>
+let x = document.getElementById("txt");
+setTimeout(function(){ x.value="5" }, 1000);
+setTimeout(function(){ x.value="4" }, 2000);
+setTimeout(function(){ x.value="3" }, 3000);
+setTimeout(function(){ x.value="2" }, 4000);
+setTimeout(function(){ x.value="1" }, 5000);
+setTimeout(function(){ x.value="HAVE FUN" }, 6000);
+
+function myFunction() {
+  let y = document.getElementById("txt");
+  //run = false;  
+    setTimeout(function(){ y.value="Confirmed" });
+ 
+}
+</script>
+  </body>  
+</html>
