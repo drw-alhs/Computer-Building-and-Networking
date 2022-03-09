@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>Panda</title>
+	</head>
+<body>
+<center>
+	<font color="Purple"> <h1>Pandas!<h1> </font>
+	<h2>Hello! Welcome to my page about pandas<h2>
+</center>
+	<p>Pandas are very cool animals, they are very big and round</p>
+<img src="panda.jpg" height="200"/>
+<br />
+<b><font color="blue">Facts</b></font>
+<br />
+	Pandas are big
+	<br>
+	Pandas are very amazing
+	</br>
+</body>
+<br>
+<a href="https://en.wikipedia.org/wiki/Giant_panda"> Click for Panda!
+</br>
+
+
+
+
+</html>
