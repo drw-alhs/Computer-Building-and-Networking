@@ -2,14 +2,33 @@
   <head>
     <title>Corbin Grassa</title>
     </head>
+  <style>
+  #foot {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+    a:link, a:visited {
+  background-color: #808080;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+  </style>
   <body>
     <h1>Welcome to my Website</h1>
     <h4 style="color:red;">WARNING<h4>
     <p>If you are reading this, you have confired your identity and you are currently being tracked. <br><br>Prepared to be nuked.  </p>
+      
       <input type="text" id="txt"><br><br>
-<button type="button" onclick="myFunction()">Stop</button>
 
-<script>
+      <button type="button" onclick="myFunction()">Stop</button>
+
+      <a id="foot" href="home.html" target="_blank">Next Page</a>
+
+      <script>
 let x = document.getElementById("txt");
 setTimeout(function(){ x.value="5" }, 1000);
 setTimeout(function(){ x.value="4" }, 2000);
