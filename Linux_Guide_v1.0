@@ -1,7 +1,7 @@
 #### Big List of Linux Commmands
 https://ss64.com/bash/
 
-####Create a basic file with the following: 
+#### Create a basic file with the following: 
 
 #!/bin/bash
 #this is a comment
@@ -15,7 +15,7 @@ To Create a startup Script for your login:
 .bash_profile is your startup script.
 
 
-####Color Changes:
+#### Color Changes:
 Have fun with this one:
 
 
@@ -39,7 +39,7 @@ export PS1=  #will change the primary user prompt
 There are probably a number of other options.
 
 
-###Full Custom Bash
+### Full Custom Bash
 n Linux, much of your work occurs from a command prompt, also known as the , or  (Bourne-Again Shell). The shell interprets your commands and passes them to the operating system for execution.
 
 This tutorial will show you how to .
