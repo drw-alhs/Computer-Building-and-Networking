@@ -1,0 +1,4 @@
+BIOS: Basic Input-Output System
+UEFI: Unified Extensible Firmware Interface
+
+Quick Explanation: https://www.maketecheasier.com/differences-between-uefi-and-bios/#:~:text=The%20biggest%20benefit%20of%20UEFI,UEFI%20for%20quite%20some%20time.
